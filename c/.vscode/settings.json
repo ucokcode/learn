@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "_size_t.h": "c",
+        "pthread.h": "c",
+        "_mach_port_t.h": "c"
+    }
+}
