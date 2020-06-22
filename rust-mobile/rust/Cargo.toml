@@ -1,0 +1,17 @@
+[package]
+name = "rustylib"
+version = "0.1.0"
+authors = ["ucokcode <ucokcode00@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "rustylib"
+crate-type = ["staticlib", "cdylib"]
+
+[target.'cfg(target_os = "android")'.dependencies]
+jni = { version = "0.16", default-features = false }
+
+[dependencies]
+

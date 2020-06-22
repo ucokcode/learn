@@ -1,0 +1,11 @@
+/Volumes/Data/coding/learn/rust-mobile/rust/target/armv7-linux-androideabi/release/deps/error_chain-a4805c6a228ff98b.rmeta: /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/lib.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/impl_error_chain_kind.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/error_chain.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/quick_main.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/backtrace.rs
+
+/Volumes/Data/coding/learn/rust-mobile/rust/target/armv7-linux-androideabi/release/deps/liberror_chain-a4805c6a228ff98b.rlib: /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/lib.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/impl_error_chain_kind.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/error_chain.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/quick_main.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/backtrace.rs
+
+/Volumes/Data/coding/learn/rust-mobile/rust/target/armv7-linux-androideabi/release/deps/error_chain-a4805c6a228ff98b.d: /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/lib.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/impl_error_chain_kind.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/error_chain.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/quick_main.rs /Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/backtrace.rs
+
+/Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/lib.rs:
+/Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/impl_error_chain_kind.rs:
+/Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/error_chain.rs:
+/Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/quick_main.rs:
+/Users/salam/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.2/src/backtrace.rs:
