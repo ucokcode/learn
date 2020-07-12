@@ -1,1 +1,3 @@
 rust-mobile
+*.out
+.DS_Store

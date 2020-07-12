@@ -1,1 +1,0 @@
-/Volumes/Data/coding/learn/rust-mobile/rust/target/armv7-linux-androideabi/release/librustylib.so: /Volumes/Data/coding/learn/rust-mobile/rust/src/android.rs /Volumes/Data/coding/learn/rust-mobile/rust/src/lib.rs
